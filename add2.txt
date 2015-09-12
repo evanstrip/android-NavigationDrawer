@@ -1,0 +1,18 @@
+total 144
+drwxr-xr-x  17 hwangh  POINTCLICKCARE\Domain Users    578 12 Sep 07:11 .
+drwxr-xr-x+ 38 hwangh  POINTCLICKCARE\Domain Users   1292 12 Sep 07:07 ..
+drwxr-xr-x  15 hwangh  POINTCLICKCARE\Domain Users    510 12 Sep 07:11 .git
+drwxr-xr-x   3 hwangh  POINTCLICKCARE\Domain Users    102 12 Sep 07:07 .google
+drwxr-xr-x   5 hwangh  POINTCLICKCARE\Domain Users    170 12 Sep 07:07 Application
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users   1612 12 Sep 07:07 CONTRIB.md
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users   1567 12 Sep 07:07 CONTRIBUTING.md
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users  32277 12 Sep 07:07 LICENSE
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users   1727 12 Sep 07:07 README.md
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users    986 12 Sep 07:10 add.txt
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users      0 12 Sep 07:11 add2.txt
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users     14 12 Sep 07:07 build.gradle
+drwxr-xr-x   3 hwangh  POINTCLICKCARE\Domain Users    102 12 Sep 07:07 gradle
+-rwxr-xr-x   1 hwangh  POINTCLICKCARE\Domain Users   5080 12 Sep 07:07 gradlew
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users   2404 12 Sep 07:07 gradlew.bat
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users    482 12 Sep 07:07 packaging.yaml
+-rw-r--r--   1 hwangh  POINTCLICKCARE\Domain Users     22 12 Sep 07:07 settings.gradle
